@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "995239576732",
+    "firebase_url": "https://fireappbro.firebaseio.com",
+    "project_id": "fireappbro",
+    "storage_bucket": "fireappbro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995239576732:android:d64f14863b7ee977cbd959",
+        "android_client_info": {
+          "package_name": "com.example.facebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995239576732-0s7j8tl6iucubbacbshvskomv2cqif80.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.facebook",
+            "certificate_hash": "c59e6c8ef0da0c52329a004712a90576b632245a"
+          }
+        },
+        {
+          "client_id": "995239576732-8t4rgrq2e3fi79j8mvjg39bs859geopj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrlsJapU0rzWjk9KUq95EMd0-vbnIrdJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995239576732-8t4rgrq2e3fi79j8mvjg39bs859geopj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
